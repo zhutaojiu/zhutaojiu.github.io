@@ -17,7 +17,6 @@ var config = {
     ],
      imgs: {
         "今天的寿星": "./imgs/生日.jpg",
-        // "今天是你的生日": "./imgs/birthday.jpg",
     },
     /**
      * imgs 可以不填, 但是如果要填写的话必须遵循下面的格式
